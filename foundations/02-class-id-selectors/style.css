@@ -1,0 +1,19 @@
+.impar {
+    background-color: rgb(219, 112, 112);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#segundo {
+    color: blue;
+    font-size: 36px;
+}
+
+#diferente {
+    font-size: 24px;
+}
+
+#cuarto {
+    background-color: rgb(198, 240, 136);
+    font-size: 24px;
+    font-weight: bold;
+}
