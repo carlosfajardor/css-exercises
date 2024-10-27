@@ -12,6 +12,7 @@ p.small-para {
   font-size: 14px;
   font-weight: 800;
 }
+/* Agregue el tipo de elemento a cambiar, en este caso fue p*/
 
 .para {
   font-size: 22px;
@@ -22,6 +23,7 @@ p.small-para {
   color: white;
   font-weight: bold;
 } 
+/* Cambie una clase por un selector ID  */
 
 .button {
   background-color: rgb(255, 255, 255);
@@ -34,6 +36,7 @@ p.small-para {
   font-weight: 800;
   font-size: 14px;
 }
+/* Agregue y especficique desde el elemento padre que aplique lo que indica la clase hija Child */
 
 div.text {
   color: rgb(0, 0, 0);
